@@ -1,0 +1,31 @@
+.users-container-outer {
+  border: 3px solid rgb(41, 40, 40);
+  border-radius: 12px;
+  box-shadow: 4px 4px 4px 1px rgb(143, 141, 141);
+  background-color: white;
+  max-width: 40vw;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2em;
+}
+
+.users-container-title {
+  border-bottom: 1px solid black;
+}
+
+.add-org-button-container {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.add-division-button {
+  width: 10em;
+  align-self: center;
+}
+.org-unit-container {
+  border-top: 1px solid black;
+}
+
+.divisions-container {
+  border-top: 1px solid black;
+}

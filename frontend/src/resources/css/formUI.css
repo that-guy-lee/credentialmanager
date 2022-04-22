@@ -1,0 +1,14 @@
+.ui-form-outer {
+  border: 3px solid black;
+  border-radius: 12px;
+  box-shadow: 4px 4px 4px 1px rgb(143, 141, 141);
+  background-color: white;
+}
+
+.login-container {
+  height: 90vh;
+}
+
+.register-container {
+  height: 90vh;
+}
